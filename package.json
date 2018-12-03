@@ -1,0 +1,17 @@
+{
+  "name": "fakeuser9",
+  "version": "1.0.0",
+  "description": "\"A simple fake users project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "User"
+  ],
+  "author": "Carlo Leonardi <carloleonardi83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
